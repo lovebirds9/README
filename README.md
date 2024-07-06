@@ -1,13 +1,15 @@
 # README
 **Cenia Ayala**
 
-* Skills and Technologies*
-Familiar with Html and Css
+*Skills and Technologies*
 
-Familiar with SQL
+1.Familiar with Html and Css
 
-* Certifications*
-AWS Solution Architect
+2.Familiar with SQL
 
- 
-Bachelor of Business Administration Management
+
+*Certifications*
+
+1.AWS Solution Architect
+
+2.Bachelor of Business Administration Management
